@@ -1,4 +1,4 @@
-                                                                                                Hi, I'm Rupam
+<p style='text-align: justify;'>Hi, I'm Rupam</p>
 
 👩🏻‍💻 About Me
 - 👩🏻‍💻 Pronouns: He/Him
