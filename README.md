@@ -1,8 +1,8 @@
-<p style='text-align: justify;'>Hi, I'm Rupam</p>
+###Hi, I'm Rupam
 
 👩🏻‍💻 About Me
 - 👩🏻‍💻 Pronouns: He/Him
-- 💼 I’m currently working as a Software Development Engineer at BookMyShow.
+- 💼 I’m currently working as a Software Development Engineer at [BookMyShow](https://in.bookmyshow.com/).
 - 📋 I've previously worked as a Full-Stack Intern at HighRadius.
 - 🧭 I love exploring and working both in frontend and backend.
 
