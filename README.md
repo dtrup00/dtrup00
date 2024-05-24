@@ -5,4 +5,5 @@
 - 💼 I’m currently working as a Software Development Engineer at BookMyShow.
 - 📋 I've previously worked as a Full-Stack Intern at HighRadius.
 - 🧭 I love exploring and working both in frontend and backend.
-- 📫 How to reach me: Check social links below.
+
+[![Rupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=dtrup00)](https://github.com/anuraghazra/github-readme-stats)
