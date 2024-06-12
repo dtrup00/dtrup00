@@ -15,7 +15,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br>
 #### 💻 Web Development: <br>
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <br>
-![CSS](https://img.shields.io/badge/css-3670A0?style=for-the-badge&logo=css&logoColor=white) <br>
+![CSS](https://img.shields.io/badge/CSS-3670A0?style=for-the-badge&logo=css&logoColor=ffdd54) <br>
 ![JavaScript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=white) <br>
 #### 💻 Frameworks: <br>
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) <br>
