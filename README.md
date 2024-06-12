@@ -1,7 +1,7 @@
 # Hi, I'm Rupam
 
 ### 💫 About Me:
-👩🏻‍💻 About Me<br><br>👩🏻‍💻 Pronouns: He/Him<br>💼 I’m currently working as a Software Development Engineer at [BookMyShow](https://in.bookmyshow.com/).<br>📋 I've previously worked as a Full-Stack Engineer Intern at [HighRadius](https://www.highradius.com/).<br>🧭 I love exploring and working backend.
+👩🏻‍💻 Pronouns: He/Him<br>💼 I’m currently working as a Software Development Engineer at [BookMyShow](https://in.bookmyshow.com/).<br>📋 I've previously worked as a Full-Stack Engineer Intern at [HighRadius](https://www.highradius.com/).<br>🧭 I love exploring and working backend.
 
 
 ### 🌐 Socials:
