@@ -1,7 +1,7 @@
 # Hi, I'm Rupam
 
 ### 💫 About Me:
-👩🏻‍💻 Pronouns: He/Him<br>💼 I’m currently working as a Software Development Engineer at [BookMyShow](https://in.bookmyshow.com/).<br>📋 I've previously worked as a Full-Stack Engineer Intern at [HighRadius](https://www.highradius.com/).<br>🧭 I love exploring and working backend.
+👩🏻‍💻 Pronouns: He/Him<br>💼 I’m currently working as a Software Development Engineer at [BookMyShow](https://in.bookmyshow.com/).<br>📋 I've previously worked as a Full-Stack Engineer Intern at [HighRadius](https://www.highradius.com/).<br>🧭 I love exploring and working at the backend.
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupam-dutta-886875176/) 
@@ -15,11 +15,11 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br>
 #### 💻 Web Development: <br>
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <br>
-![CSS](https://img.shields.io/badge/CSS-3670A0?style=for-the-badge&logo=css&logoColor=ffdd54) <br>
+![CSS](https://img.shields.io/badge/CSS-3670A0?style=for-the-badge&logo=css&logoColor=white) <br>
 ![JavaScript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=white) <br>
 #### 💻 Frameworks: <br>
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) <br>
-![.Spring](https://img.shields.io/badge/spring-5C2D91?style=for-the-badge&logo=spring&logoColor=white) <br>
+![Spring](https://img.shields.io/badge/spring-5C2D91?style=for-the-badge&logo=spring&logoColor=white) <br>
 #### 💻 Databases: <br>
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) <br>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) <br>
