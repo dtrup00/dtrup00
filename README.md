@@ -3,7 +3,7 @@
 ## 💫 About Me:
 👩🏻‍💻 Pronouns: He/Him<br>
 💼 I’ve previously worked as a Software Development Engineer at [BookMyShow](https://in.bookmyshow.com/), and as a Full-Stack Engineer Intern at [HighRadius](https://www.highradius.com/). <br>🧭 I love exploring and working at the backend.
-/*📋*/
+<!--📋-->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupam-dutta-886875176/) 
