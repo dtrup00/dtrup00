@@ -2,7 +2,8 @@
 
 ## 💫 About Me:
 👩🏻‍💻 Pronouns: He/Him<br>
-💼 I’ve previously worked as a Software Development Engineer at [BookMyShow](https://in.bookmyshow.com/), and as a Full-Stack Engineer Intern at [HighRadius](https://www.highradius.com/). <br>🧭 I love exploring and working at the backend.
+💼 I have previously worked as a Software Development Engineer at [BookMyShow](https://in.bookmyshow.com/), and as a Full-Stack Engineer Intern at [HighRadius](https://www.highradius.com/). <br>🧭 I love exploring and working at the backend.
+👩🏻‍💻 I am a driven coder with a passion for crafting efficient solutions and solving complex problems.
 <!--📋-->
 
 ## 🌐 Socials:
