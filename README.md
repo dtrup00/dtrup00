@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rupam</h1> <br> <br> <br>
+<h1 align="center">Hi 👋, I'm Rupam</h1> <br>
 👩🏻‍💻 Pronouns: He/Him <br>
 💼 I have previously worked as a Software Development Engineer at BookMyShow, and as a Full-Stack Engineer Intern at HighRadius. <br>
 🧭 I love exploring and working at the backend. <br>
