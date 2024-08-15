@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rupam</h1> <br>
 👩🏻‍💻 Pronouns: He/Him <br>
-💼 I have previously worked as a Software Development Engineer at ![BookMyShow](https://in.bookmyshow.com/), and as a Full-Stack Engineer Intern at ![HighRadius](https://www.highradius.com/). <br>
+💼 I have previously worked as a Software Development Engineer at <strong>BookMyShow</strong>, and as a Full-Stack Engineer Intern at <strong>HighRadius</strong>. <br>
 🧭 I love exploring and working at the backend. <br>
 👩🏻‍💻 I am a driven coder with a passion for crafting efficient solutions and solving complex problems. <br> <br>
 
