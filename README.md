@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rupam</h1>
-<h3 align = "center"> A passionate backend developer from India </h3>
+<h1 align="center">Hi 👋, I'm Rupam</h1> <br> <br> <br>
 👩🏻‍💻 Pronouns: He/Him <br>
 💼 I have previously worked as a Software Development Engineer at BookMyShow, and as a Full-Stack Engineer Intern at HighRadius. <br>
 🧭 I love exploring and working at the backend. <br>
-👩🏻‍💻 I am a driven coder with a passion for crafting efficient solutions and solving complex problems. <br>
+👩🏻‍💻 I am a driven coder with a passion for crafting efficient solutions and solving complex problems. <br> <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dtrup00&label=Profile%20views&color=0e75b6&style=flat" alt="dtrup00" /> </p>
 
