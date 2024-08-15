@@ -1,3 +1,5 @@
+<div style="background-color:#f0f0f0; padding: 20px; border-radius: 10px;">
+
 <h1>Hi 👋, I'm Rupam</h1>
 👩🏻‍💻 Pronouns: He/Him <br>
 💼 I have previously worked as a Software Development Engineer at <strong>BookMyShow</strong>, and as a Full-Stack Engineer Intern at <strong>HighRadius</strong>. <br>
@@ -21,3 +23,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dtrup00&" alt="dtrup00" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dtrup00&show_icons=true&locale=en&layout=compact" alt="dtrup00" /></p>
 
+</div>
