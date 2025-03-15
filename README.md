@@ -1,5 +1,5 @@
 ## 💫 About Me:
-  - A Software Engineer having 2+ years of experience working in Backend development.
+  - A Software Engineer having 2+ years of experience working in software development.
   - A driven coder with a passion for crafting efficient solutions and solving complex problems.
 
 ## 💻 Tech Stack:
